@@ -1,4 +1,2 @@
 print("Hello world!")
-print("Hello from feature")
-print("Hello from release")
-print("Logging enabled")
+print("Hello once again")
